@@ -2,16 +2,20 @@
 
 ###
 
-<h6 align="left">Hi 👋! My name is Anthonia Nicol and I am a Game Developer, Animator and Illustrator. 
+<h4 align="left">Hi 👋! My name is Anthonia Nicol. 
 
-I create the game art for my own games and work on the backend too. ⚡Learning new coding languages; especially those that compliment the languages I currently use. Watching and dissecting movies.</h6>
+I am a Game Developer, Animator and Illustrator. 
+
+I create the game art for my own games and work on the backend too. 
+
+I love learning new coding languages and watching and dissecting movies.</h4>
 
 ###
 
 <img align="right" height="150" src="https://github.com/nicoltoons/nicoltoons/blob/main/sackgirl.gif"  />
 
 ###
-
+<h4 align="left">I code with </h4>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
