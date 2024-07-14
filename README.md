@@ -1,44 +1,36 @@
-<img  src ="https://github.com/nicoltoons/nicoltoons/blob/main/myBanner.png" />
+# Anthonia Nicol
 
-###
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnicoltoons%2Fnicoltoons&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/AnthoniaNicol)](https://twitter.com/AnthoniaNicol)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in//anthonia-nicol-a3670163/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/teegirl2.0/)](https://www.instagram.com/teegirl2.0)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:nicoltoons@gmail.com)
+[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://nicoltoons.tumblr.com)](https://nicoltoons.tumblr.com)
+[![Github](https://img.shields.io/github/followers/nicoltoons?label=Follow&style=social)](https://github.com/nicoltoons)
 
-<h4 align="left">Hi 👋! My name is Anthonia Nicol. 
+- 💻 Owner of [**Flamation Studios**](https://flamationstudios.com). Check it out for the latest 2d games, apps, stories, comics and more!
+- 🤔 I’m currently taking a certification course in C# with Microsoft learn  [https://learn.microsoft.com/en-us/training/ ]
+- 🌱 I also code with JSON, PHP and MySQL
+- 📫 How to reach me: toni@flamationstudios.com , nicoltoons@gmail.com
 
-I am a Game Developer, Animator and Illustrator. 
 
-I create the game art for my own games and work on the backend too. 
 
-I love learning new coding languages and watching and dissecting movies.</h4>
+### 🖥 Skills
 
-###
+- Game And App Development with Unity and C#
+- Basic Database Creation with PHP and MySQL
+- 2D Animation and Illustration
+- Creative Writing
+- UI and UX design
+### ⚙️ Tech Stack
 
-<img align="right" height="150" src="https://github.com/nicoltoons/nicoltoons/blob/main/sackgirl.gif"  />
+![Bootstrap](https://img.shields.io/badge/-C%23-05122A?style=flat-square&logo=C#&color=353535) ![Bootstrap](https://img.shields.io/badge/-PHP-05122A?style=flat-square&logo=PHP&color=353535) ![Bootstrap](https://img.shields.io/badge/-JSON-05122A?style=flat-square&logo=JSON&color=353535) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535)
 
-###
-<h4 align="left">I code with </h4>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+<div>
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicoltoons&show_icons=true&locale=en&layout=compact" alt="nicoltoons" />
+  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=nicoltoons&" alt="nicoltoons" />
 </div>
 
-###
 
-<div align="left">
-  <a href="https://www.youtube.com/channel/UCkbMW11X8dcDsZRtBpXNwOw" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/teegirl2.0/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="nicoltoons@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/anthonia-nicol-a3670163/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
+---
+:zap: To generate a `README.md` file like this for your profile, checkout [Github Readme Generator](https://hejazizo-github-profile-readme-srcstreamlit-app-i6skm7.streamlit.app/).
