@@ -18,7 +18,7 @@
 ### 🖥 Skills
 
 - Game And App Development with Unity and C#
-- Basic Database Creation with PHP and MySQL
+- Database Creation with PHP and MySQL
 - 2D Animation and Illustration
 - Creative Writing
 - UI and UX design
