@@ -26,7 +26,10 @@
 
 ![Bootstrap](https://img.shields.io/badge/-C%23-05122A?style=flat-square&logo=C#&color=353535) ![Bootstrap](https://img.shields.io/badge/-PHP-05122A?style=flat-square&logo=PHP&color=353535) ![Bootstrap](https://img.shields.io/badge/-JSON-05122A?style=flat-square&logo=JSON&color=353535) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535)
 
-
+### 💻 Latest Work
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=fyqQag92Ufs
+" target="_blank"><img src="http://img.youtube.com/vi/fyqQag92Ufs/0.jpg" 
+alt="Name The Fruits" width="240" height="180" border="5" /></a>
 
 
 
