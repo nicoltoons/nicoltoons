@@ -8,7 +8,7 @@
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://nicoltoons.tumblr.com)](https://nicoltoons.tumblr.com)
 [![Github](https://img.shields.io/github/followers/nicoltoons?label=Follow&style=social)](https://github.com/nicoltoons)
 
-- 💻 Owner of [**Flamation Studios**](https://flamationstudios.com). Check it out for the latest 2d games, apps, stories, comics and more!
+- 💻 Content Producer for [**Flamation Studios**](https://flamationstudios.com). Check it out for the latest 2d games, apps, stories, comics and more!
 - 🤔 I’m currently taking a certification course in C# with Microsoft learn  [https://learn.microsoft.com/en-us/training/ ]
 - 🌱 I also code with JSON, PHP and MySQL
 - 📫 How to reach me: toni@flamationstudios.com , nicoltoons@gmail.com
