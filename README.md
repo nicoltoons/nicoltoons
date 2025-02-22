@@ -31,17 +31,7 @@
 
 
 ### 💻 Latest 2D Animation Work
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=fyqQag92Ufs
-" target="_blank"><img src="http://img.youtube.com/vi/fyqQag92Ufs/0.jpg" 
-alt="Name The Fruits" width="200" height="150" border="0" /></a>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=PGQpvxxzDiA
-" target="_blank"><img src="http://img.youtube.com/vi/PGQpvxxzDiA/0.jpg" 
-alt="Name The Fruits 2" width="200" height="150" border="0" /></a>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=tcGjMdK6BKQ
-" target="_blank"><img src="http://img.youtube.com/vi/tcGjMdK6BKQ/0.jpg" 
-alt="Name The Fruits 2" width="200" height="150" border="5" /></a>
-
-
+![Head And Shoulders 2D Animation WIP ](https://github.com/nicoltoons/Head-And-Shoulders-Children-Animation/blob/main/headshoulders.gif)
 
 
 
