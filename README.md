@@ -30,7 +30,7 @@
 ![Type It Lite](https://github.com/nicoltoons/TypeItLite/blob/main/typeitLite.gif)
 
 
-### 💻 Latest 2D Animation Work
+### 💻 Heads And Shoulders 2D Animation For Kids
 ![Head And Shoulders 2D Animation WIP ](https://github.com/nicoltoons/Head-And-Shoulders-Children-Animation/blob/main/headshoulders.gif)
 
 
