@@ -29,14 +29,18 @@
 ## 📱 Type It Lite: JSON Creator and Editor
 ![Type It Lite](https://github.com/nicoltoons/TypeItLite/blob/main/typeitLite.gif)
 
-
+### 💻 Latest Animations
+## 📱 Head And Shoulders Children Animation
 ![Scene 1 ](https://github.com/nicoltoons/Head-And-Shoulders-Children-Animation/blob/main/headshoulders.gif)
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=4aUc2iozH4k
 " target="_blank"><img src="http://img.youtube.com/vi/4aUc2iozH4k/0.jpg" 
 alt="Name The Fruits 2" width="960" height="540" border="5" /></a>
 
+
+## 📱 WhackOMonster Shorts On YouTube
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Dqk_NhqhtaA
-" target="_blank"><img src="https://img.youtube.com/shorts/Dqk_NhqhtaA/0.jpg" 
+" target="_blank"><img src="https://github.com/nicoltoons/nicoltoons/blob/main/forgithub.png" 
 alt="WhackOMonster Ep 1 - Bomb Explosion" width="540" height="960" border="5" /></a>
 
 
