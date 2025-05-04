@@ -30,9 +30,14 @@
 ![Type It Lite](https://github.com/nicoltoons/TypeItLite/blob/main/typeitLite.gif)
 
 
-### 💻 Heads And Shoulders 2D Animation For Kids
-![Head And Shoulders 2D Animation WIP ](https://github.com/nicoltoons/Head-And-Shoulders-Children-Animation/blob/main/headshoulders.gif)
+![Scene 1 ](https://github.com/nicoltoons/Head-And-Shoulders-Children-Animation/blob/main/headshoulders.gif)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=4aUc2iozH4k
+" target="_blank"><img src="http://img.youtube.com/vi/4aUc2iozH4k/0.jpg" 
+alt="Name The Fruits 2" width="960" height="540" border="5" /></a>
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Dqk_NhqhtaA
+" target="_blank"><img src="https://img.youtube.com/shorts/Dqk_NhqhtaA/0.jpg" 
+alt="WhackOMonster Ep 1 - Bomb Explosion" width="540" height="960" border="5" /></a>
 
 
 
