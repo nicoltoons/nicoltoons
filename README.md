@@ -25,6 +25,11 @@
 
 ![Bootstrap](https://img.shields.io/badge/-C%23-05122A?style=flat-square&logo=C#&color=353535) ![Bootstrap](https://img.shields.io/badge/-PHP-05122A?style=flat-square&logo=PHP&color=353535) ![Bootstrap](https://img.shields.io/badge/-JSON-05122A?style=flat-square&logo=JSON&color=353535) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535)
 
+### ⚙️ Recent Courses / Certifications
+## Python For Everybody : Free Code Camp
+![Python](https://github.com/nicoltoons/nicoltoons/blob/main/chrome_zpLY0hXWqE.png)
+
+
 ### 💻 Latest Games And Apps
 ## 📱 Type It Lite: JSON Creator and Editor
 ![Type It Lite](https://github.com/nicoltoons/TypeItLite/blob/main/typeitLite.gif)
